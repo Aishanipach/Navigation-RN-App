@@ -3,7 +3,7 @@ A boilerplate to implement Stack navigation inside a Bottom tab navigation in Re
 
 `react-native` `react-navigation` `ios` `android`
 
-
+**Here, each bottom tab screen has it's own stack of screens which can be navigated into**
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
